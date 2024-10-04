@@ -33,7 +33,7 @@
 <details>
   <summary> :zap: Expand me</summary>
 
-![Mayuresh's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
+![Mayuresh's github stats](https://github-readme-stats.vercel.app/api?username=Mayuresh-&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
 
