@@ -5,7 +5,7 @@
 
 ## 😎 Connect with me
 
-[Instagram][instagram]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## 👨‍💻 Technologies and Tools
