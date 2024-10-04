@@ -116,6 +116,8 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 </details>
 
 [instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/Mayureshkurhe
+[linkedin]: https://linkedin.com/in/www.linkedin.com/in/mayuresh-kurhe
+
+
 [facebook]: https://www.facebook.com/Mayureshkurhe
 [github]: https://github.com/Mayuresh-devops
