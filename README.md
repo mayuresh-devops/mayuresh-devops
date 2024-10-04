@@ -5,12 +5,10 @@
 
 ## 😎 Connect with me
 
-[Website][website]
-[Twitter][twitter]
+
 [Instagram][instagram]
 [Linkedin][linkedin]
 
-[Steam][steam]
 
 ## 👨‍💻 Technologies and Tools
 
