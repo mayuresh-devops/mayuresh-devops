@@ -1,7 +1,7 @@
 # Hi there, I'm Mayuresh! 👋
 
 - 🌱 I’m currently doing **DevOps**
-- 📫 How to reach me **mayureshkurhe7@gmail.com**
+- 📫 How to reach me **mayureshkurhe@outlook.com**
 
 ## 😎 Connect with me
 
